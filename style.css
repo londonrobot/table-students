@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.form-container {
+  display: flex;
+  font-size: 14px;
+  color: rgb(255, 0, 55);
+}
+.addition-form {
+  display: inline-block;
+  color: #000;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.warning {
+  display: inline-block;
+}
+
+.name-input {
+  width: 300px;
+  height: 30px;
+  padding: 10px;
+  margin: 5px 15px;
+  font-size: 16px;
+}
+
+.button {
+  padding: 15px 30px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.form-filter {
+  margin-bottom: 15px;
+}
+
+.filter {
+  padding: 10px;
+  margin: 5px;
+  font-size: 14px;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.table-head {
+  cursor: pointer;
+  background-color: rgb(230, 230, 230);
+}
+
+.table-data {
+  border: 1px solid;
+  padding: 10px 60px 10px 10px;
+  text-align: left;
+  width: auto;
+}
